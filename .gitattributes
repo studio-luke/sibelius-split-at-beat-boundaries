@@ -1,0 +1,7 @@
+* text=auto
+*.plg binary
+*.txt text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.command text eol=lf
+*.cmd text eol=crlf
